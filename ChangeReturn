@@ -11,6 +11,6 @@ public class ChangeReturn {
             }
         }
 
-        System.out.println("Купюр видано: " + count);
+        System.out.println("купюр було видано: " + count);
     }
 }
