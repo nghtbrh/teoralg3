@@ -11,6 +11,6 @@ public class WeightBalance {
             }
         }
 
-        System.out.println("Гир використано: " + count);
+        System.out.println("гір було використано: " + count);
     }
 }
